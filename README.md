@@ -3,6 +3,8 @@ An example start up project
 
 Change from my developement environment!
 
-Change from GitHub
+
+Change from Github
+
 
 Setting up Github for CS 260
