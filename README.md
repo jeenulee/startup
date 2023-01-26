@@ -14,7 +14,7 @@ I learned a lot about Github from this assignment, I have used it before but sin
 Setting up Github for CS 260
 
 STARTUP:
-HOW FOCUSED ARE YOU? My website will be a reacreation of the arcade game where there is a wheel with a needle and a box, when you begin the needle rotates and when it hovers over the box, you push spacebar to gain a point, a new box will appear and the direction of the needle will flip from clockwise to counterclockwise and will continuously get faster as you gain a higher score. Failure occurs when you press spacebar to early or needle goes past the box.
+HOW FOCUSED ARE YOU? My website will be a reacreation of the arcade game where there is a wheel with a needle and a box, when you begin the needle rotates and when it hovers over the box, you push spacebar to gain a point, a new box will appear and the direction of the needle will flip from clockwise to counterclockwise and will continuously get faster as you gain a higher score. Failure occurs when you press spacebar to early or needle goes past the box. Do you have what it takes to get the highscore?
 
 
 FEATURES: 
