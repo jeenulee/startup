@@ -26,3 +26,26 @@ Unique celebratory message when you beat your personal high score or the overall
 Default difficulty where needle gets faster every 10 points
 Hard difficulty where needle starts out incredibly fast
 ![IMG_0123](https://user-images.githubusercontent.com/89105570/214755276-02fa82fe-1cc7-4722-9b96-bb2596e5d33a.JPG)
+
+
+
+Notes:
+
+Purpose	Size
+Page title	96 px
+Titles	48-20 px
+Text	16 px
+Secondary text	14 px
+Input	16 px
+typical fonts for a website
+
+
+
+
+
+
+
+
+
+
+
